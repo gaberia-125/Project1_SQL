@@ -61,3 +61,6 @@ Setelah menjalankan query diatas didapatkan hasil bahwa tidak ada duplikasi pada
 **Rekomendasi**: Percepat konversi pelanggan baru dengan menggunakan push notification, promosi first-order, dan evaluasi UX pada aplikasi untuk mempercepat proses pembelian.
 
 **3. KESIMPULAN** : Proyek ini memberikan gambaran lengkap tentang bagaimana data transaksi dan pelanggan dianalisis menggunakan SQL untuk memperoleh wawasan tentang kinerja penjualan dan efektivitas channel pemasaran. Beberapa rekomendasi utama termasuk mengoptimalkan promosi di awal tahun, memperbaiki konversi di website, dan meningkatkan integrasi antar channel untuk mendukung strategi pertumbuhan bisnis.
+
+**Link PPT Penjelasan detail** : https://drive.google.com/file/d/1JZ211oPt3ucl_A78XY8zlhPAispq9sdX/view?usp=sharing
+
